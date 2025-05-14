@@ -1,0 +1,67 @@
+/* Color Palette */
+/* 
+#181b24
+#27383e
+#460b0b
+#cb861a
+#ffdb84
+*/
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: #181b24;
+  color: #ffdb84;
+}
+
+header {
+  background-color: #27383e;
+}
+
+.movieposterborder {
+  border: 4px solid #460b0b;
+  border-radius: 15px;
+  filter: drop-shadow(5px 5px 5px #27383e);
+}
+
+.movieposterlg {
+  width: 60%;
+}
+
+.moviepostersm {
+  width: 45%;
+  min-width: 65px;
+}
+
+.moviepostertiny {
+  width: 5%;
+}
+
+footer {
+  background-color: black;
+}
+
+footer a {
+  color: #ffdb84;
+}
+
+footer a:hover {
+  color: #cea547;
+}
+
+#navsignup {
+  text-decoration: underline;
+  color: lightblue;
+}
+
+/* .formbutton {
+  background-color: #460b0b;
+  border: 2px solid #27383e;
+  border-radius: 10px;
+  color: #cea547;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px 15px;
+}
+
+.formbutton:hover {
+  background-color: #501f1f;
+} */
